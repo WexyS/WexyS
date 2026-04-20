@@ -11,10 +11,10 @@ I am passionate about creating autonomous, locally-hosted, multi-agent AI system
 
 ---
 
-### 📊 My GitHub Metrics
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/WexyS?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Europe%2FIstanbul" alt="My Metrics" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WexyS&theme=tokyonight" width="100%" />
 </p>
 
 ---
