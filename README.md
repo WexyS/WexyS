@@ -1,6 +1,6 @@
 # Hi there, I'm WexyS! 👋
 
-### 🤖 Autonomous AGI Architect & Lead Developer of [Ultron](https://github.com/WexyS/Ultron)
+### 🤖 Autonomous AGI Architect & Lead Developer of [Ultron](https://github.com/WexyS/U.L.T.R.O.N)
 
 I am passionate about creating autonomous, locally-hosted, multi-agent AI systems.
 
