@@ -1,12 +1,11 @@
 # Hi there, I'm WexyS! 👋
 
-### 🤖 Autonomous AGI Architect & Lead Developer of [Ultron](https://github.com/WexyS/U.L.T.R.O.N)
 
 I am passionate about creating autonomous, locally-hosted, multi-agent AI systems.
 
 - 🌍 Based in Turkey
-- 🚀 Currently building **Ultron v3.0** — An advanced, autonomous AGI assistant
-- 🧠 Exploring LLM Fine-tuning via **Ultron Factory**
+- 🚀 Currently building **Aegis and Ultron** — An advanced, autonomous AGI assistant
+- 🧠 Exploring LLM Fine-tuning via **Ultron Factory(soon)**
 - ⚡ Focused on Smart Routing, Memory Systems, and MCP Tool Integration
 
 ---
@@ -46,7 +45,7 @@ I am passionate about creating autonomous, locally-hosted, multi-agent AI system
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Ultron](https://github.com/WexyS/Ultron)** | Autonomous, locally-hosted multi-agent AGI system. | 🚀 Active |
+| **[Ultron](https://github.com/WexyS/Ultron)** | Autonomous, locally-hosted multi-agent AGI system. | 🚀 In maintenance |
 | **[Ultron Factory](https://github.com/WexyS/Ultron/tree/main/Ultron%20Factory)** | Specialized project for fine-tuning LLMs. | 🛠️ In Progress |
 
 ---
