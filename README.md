@@ -45,7 +45,7 @@ I am passionate about creating autonomous, locally-hosted, multi-agent AI system
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[Ultron](https://github.com/WexyS/U.L.T.R.O.N)** | | 🚀 In maintenance |
+| **[Ultron](https://github.com/WexyS/U.L.T.R.O.N)** | 🚀 In maintenance |
 | **[Ultron Factory](https://github.com/WexyS/Ultron/tree/main/Ultron%20Factory)** | Specialized project for fine-tuning LLMs. | 🛠️ In Progress |
 
 ---
