@@ -4,7 +4,7 @@
 I am passionate about creating autonomous, locally-hosted, multi-agent AI systems.
 
 - 🌍 Based in Turkey
-- 🚀 Currently building **Aegis and Ultron** — An advanced, autonomous AGI assistant
+- 🚀 Currently building **Aegis and Ultron**
 - 🧠 Exploring LLM Fine-tuning via **Ultron Factory(soon)**
 - ⚡ Focused on Smart Routing, Memory Systems, and MCP Tool Integration
 
