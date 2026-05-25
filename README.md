@@ -33,7 +33,7 @@ I am passionate about creating autonomous, locally-hosted, multi-agent AI system
 
 ---
 
-### 🐍 My Contributions (The Snake Game)
+### 🐍 My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WexyS/WexyS/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
